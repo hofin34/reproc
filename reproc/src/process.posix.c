@@ -11,6 +11,7 @@
 #include <sys/resource.h>
 #include <sys/wait.h>
 #include <unistd.h>
+#include <linux/limits.h>
 
 #include "error.h"
 #include "macro.h"
